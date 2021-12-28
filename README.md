@@ -1,4 +1,5 @@
-# Projet Tatia
+# Projet de Tatia
+# Mia SWERY - Eva RADU
 
 Classification de tweets pour déterminer si ils sont sexistes ou non.
 
